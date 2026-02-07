@@ -1,18 +1,16 @@
 ## Hi, I'm Naela Fauzul Muna 👋
 
-🍎 **iOS Engineer**  
-💼 iOS Engineer Intern @GRAB
+🍎 iOS Engineer Intern @ Grab  
 🎓 Apple Developer Academy Graduate  
 📍 South Jakarta, Indonesia
 
-I’m an iOS engineer with strong experience in building **scalable, production-ready mobile applications** using Swift, SwiftUI, and UIKit.  
-I enjoy working close to product, collaborating across teams, and solving real-world problems with clean architecture and high-quality code.
+I’m an iOS engineer with hands-on experience building scalable, production-ready mobile applications using Swift, SwiftUI, and UIKit.
+I enjoy working close to product, collaborating across cross-functional teams, and solving real-world problems with clean architecture and high-quality code.
 
 ---
 
 ## 👩‍💻 About Me
 
-- iOS Engineer Intern at **Grab (Fulfillment Team)**
 - Apple Developer Academy graduate (Top 1.47% acceptance rate)
 - Informatics graduate with **GPA 3.94/4.00** (Outstanding Student)
 - Experienced in **SwiftUI, UIKit, MVVM, and VIPER**
