@@ -77,43 +77,6 @@ I enjoy working close to product, collaborating across teams, and solving real-w
 - Built web dashboard for real-time temperature monitoring and GPS tracking
 - Designed offline-first systems for remote healthcare environments
 
----
-
-## 🚀 Featured Projects
-
-### Jelajah — Real-Time Travel Coordination App
-- CloudKit-based shared & private databases for live trip coordination
-- Live location sync and itinerary updates
-- Performance profiling using Instruments
-- CI/CD with Xcode Cloud & TestFlight
-- Accessibility-first design (Dynamic Type, scalable UI)
-
-### Cookshot — ML Object Detection iOS App
-- CoreML-based ingredient recognition (3,000 training iterations)
-- Recipe recommendation system
-- Built with SwiftUI, VisionKit, AVFoundation
-- Monetized with Google AdMob
-- UI automation using XCUITest
-
-### Pyramyst — watchOS Game
-- Archaeology-themed watchOS game
-- SpriteKit animations & WatchKit haptics
-- Digital Crown interaction
-- Multiple build schemes for testing & production
-
----
-
-## 📚 Publications
-
-**Automated Framework for ASD Communication**  
-*SINTA 2 Indexed – Jurnal Teknologi Pendidikan (2025)*
-
-- Integrated OpenAI Whisper ASR and GPT-4o API
-- Automated transcription, diarization, and semantic analysis
-- Reduced manual assessment time by **89%**
-- Designed custom evaluation matrix for autism communication assessment
-
----
 
 ## 📫 Let’s Connect
 
