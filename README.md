@@ -29,17 +29,3 @@ I enjoy working close to product, collaborating across cross-functional teams, a
 
 ⭐️ *Thanks for visiting my GitHub! Feel free to explore my projects or reach out for collaboration.*
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naelafauzul&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naelafauzul&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naelafauzul&layout=compact&hide_border=true" />
-</p>
-
----
