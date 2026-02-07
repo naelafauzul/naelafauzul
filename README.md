@@ -13,7 +13,7 @@ I enjoy working close to product, collaborating across cross-functional teams, a
 
 - Apple Developer Academy graduate (Top 1.47% acceptance rate)
 - Informatics graduate with **GPA 3.94/4.00** (Outstanding Student)
-- Experienced in **SwiftUI, UIKit, MVVM, and VIPER**
+- Experienced in **SwiftUI, UIKit, MVVM, VIPER, Combine, RxSwift, etc**
 - Interested in **AI-powered applications** and **product-driven development**
 - Comfortable working on large-scale, widely used mobile applications
 
@@ -22,7 +22,6 @@ I enjoy working close to product, collaborating across cross-functional teams, a
 ## 📫 Let’s Connect
 
 - LinkedIn: https://linkedin.com/in/naelafauzul
-- GitHub: https://github.com/naelafauzul
 - Email: naelafauzulm@gmail.com
 
 ---
