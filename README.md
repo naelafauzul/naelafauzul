@@ -4,8 +4,7 @@
 🎓 Apple Developer Academy Graduate  
 📍 South Jakarta, Indonesia
 
-I’m an iOS engineer with hands-on experience building scalable, production-ready mobile applications using Swift, SwiftUI, and UIKit.  
-I enjoy working close to product, collaborating across cross-functional teams, and solving real-world problems with clean architecture and high-quality code.
+I’m an iOS engineer with hands-on experience building scalable, production-ready mobile applications using Swift, SwiftUI, and UIKit.  I enjoy working close to product, collaborating across cross-functional teams, and solving real-world problems with clean architecture and high-quality code.
 
 ---
 
